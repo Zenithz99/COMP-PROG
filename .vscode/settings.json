@@ -1,0 +1,5 @@
+{
+    "git.ignoreLimitWarning": true,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "python.linting.enabled": false
+}

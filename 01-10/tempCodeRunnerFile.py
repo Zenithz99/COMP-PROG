@@ -1,0 +1,1 @@
+and inp[-2] not in ["a","e","i","o",'u'] 
